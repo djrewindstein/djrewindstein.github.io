@@ -1,0 +1,39 @@
+h1{
+	color: blue;
+}
+ul{
+	color: purple;
+}
+
+p{
+	font-family:"serif";font-style:italic;
+	background-color: yellow;
+}
+
+h2{border-style:dashed;border-width:2px;}
+
+.mammal{
+	color:red;padding-left:20px;padding-right:20px;
+}
+
+.birds{
+	color:blue;margin-top:15px;margin-bottom:10px;
+}
+
+.fish{
+	color:orange;padding:10px;margin-top:20px;
+}
+
+#Sloth{
+	background-color:tan;
+}
+
+body{
+	margin:20px 0px 0px 10px;
+
+}
+
+body{
+	text-align: center;
+}
+
